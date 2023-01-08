@@ -1,0 +1,15 @@
+{
+    "name": "Tran Trung Nghia",
+    "year": 1997,
+    "gender": true,
+    "contact": {
+        "email": "nghiatt130497@gmail.com",
+        "phone": "0366888470"
+    },
+    "skill": [
+        "Java",
+        "Html5 / css3",
+        "SQL",
+        "Javascript"
+    ]
+}
